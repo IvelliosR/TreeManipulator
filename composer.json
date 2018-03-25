@@ -1,0 +1,14 @@
+{
+    "name": "ivi/tree-manipulator",
+    "description": "Library to manipulate tree structure data",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+		"php": ">=5.3.0"
+	},
+    "autoload": {
+        "psr-0": {
+            "TreeManipulator": "src/"
+        }
+    }
+}
